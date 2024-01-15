@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is ENTER NAME HERE and my GitHub alias is ENTER ALIAS HERE.
+My name is Prajakta Shidagouda Patil and my GitHub alias is demonbyte.
 
 ## Optional Next Steps
 
